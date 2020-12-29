@@ -1,0 +1,20 @@
+{
+  "key": "xlua",
+  "name": "xlua",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "xLUA",
+  "defaultView": "all",
+  "address": "0x9abF23f4e439d695A7FD341a1b25873C50CFa52e",
+  "token": "0x9abF23f4e439d695A7FD341a1b25873C50CFa52e",
+  "core": [],
+  "min": 1000,
+  "invalid": [],
+  "strategies": [
+    ["lua", {
+      "address": "0x9abF23f4e439d695A7FD341a1b25873C50CFa52e",
+      "symbol": "LUA",
+      "decimals": 18
+    }]
+  ]
+}
