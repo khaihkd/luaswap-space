@@ -7,7 +7,10 @@
   "defaultView": "all",
   "address": "0x9abF23f4e439d695A7FD341a1b25873C50CFa52e",
   "token": "0x9abF23f4e439d695A7FD341a1b25873C50CFa52e",
-  "core": [],
+  "core": [
+    "0x5C5eD89E0ffeB80d4998a8b628607d5d0c218eDA",
+    "0x5a555a508569E9eD6A655b90096889565d8a5aAA"
+  ],
   "min": 1000,
   "invalid": []
 }
