@@ -1,0 +1,13 @@
+{
+  "key": "lition",
+  "name": "lition",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "LIT",
+  "defaultView": "all",
+  "address": "0x763fa6806e1acf68130d2d0f0df754c93cc546b2",
+  "token": "0x763fa6806e1acf68130d2d0f0df754c93cc546b2",
+  "core": ["0x5a555a508569e9ed6a655b90096889565d8a5aaa"],
+  "min": 1000,
+  "invalid": []
+}
